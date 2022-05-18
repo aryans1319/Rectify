@@ -9,16 +9,15 @@ class Landing extends Component {
 
   render() {
     return (
-      <div style={{ height: "75vh" }} className="container valign-wrapper">
+      <div style={{ height: "80vh" }} className="container valign-wrapper">
         <div className="row">
           <div className="col s12 center-align">
             <h4>
-              <b>Examify.ai </b>your online exams with{" "}
-              <span style={{ fontFamily: "monospace" }}>Procto</span> and ensure cheating free exams!
+                <b>Secure </b>your online exams with{" "}
+              <span style={{ fontFamily: "Consolas" }}><b>Rectify</b></span> and ensure cheating free exams!
             </h4>
             <p className="flow-text grey-text text-darken-1">
-              Create an exam, share unique code with students and monitor cheating attempts in real time from the dashboard. Its 
-              that simple!
+              Create an exam, share unique code with students and monitor them in real time from the dashboard. It's this simple and easy to use!
             </p>
             <br />
             <div className="col s6">
@@ -42,7 +41,7 @@ class Landing extends Component {
                   borderRadius: "3px",
                   letterSpacing: "1.5px"
                 }}
-                className="btn btn-large btn-flat waves-effect white black-text"
+                className="btn btn-large waves-effect waves-light hoverable blue accent-3"
               >
                 Log In
               </Link>
