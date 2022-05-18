@@ -1,6 +1,8 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
-// create new schema for an exam
+
+/* Creating a new schema for the exam */
+
 const ExamSchema = new Schema({
     name: {
       type: String,
@@ -29,5 +31,7 @@ const ExamSchema = new Schema({
     }
     
   });
-// export the model
+
+/* Export the model */
+
 module.exports = User = mongoose.model("exams", ExamSchema);

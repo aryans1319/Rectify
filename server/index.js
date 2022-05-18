@@ -19,7 +19,7 @@ app.use(
       extended: false
     })
   );
-  app.use(bodyParser.json());
+app.use(bodyParser.json());
 app.use(fileUpload());
 app.use(express.static(path.resolve(__dirname, '../client/build')));
 
