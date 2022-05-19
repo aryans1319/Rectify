@@ -15,7 +15,7 @@ const PageNotFound = () => {
         </h3>
       <small>
         This action has been recorded
-        </small>
+      </small>
     </center>
   </div>
   )

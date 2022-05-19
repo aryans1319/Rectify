@@ -162,7 +162,7 @@ export default class Detection extends React.Component {
 
   };
 
-  render() {
+render() {
     return (
       <div>
         <video
