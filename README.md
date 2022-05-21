@@ -17,6 +17,10 @@ Feature | Images
 Registration Page ![registrationPage](https://user-images.githubusercontent.com/72180855/169329936-754069ba-d581-43a1-8cf2-2eac8b9d1e11.jpg) | Login Page  ![LoginPage](https://user-images.githubusercontent.com/72180855/169330053-aaa107cf-23b9-4d45-ade9-ab9929d1128b.jpg) 
 Teacher Dashboard  ![teacherDashboard](https://user-images.githubusercontent.com/72180855/169328758-22c634dc-f495-4445-8c4d-015a83fbbbb9.jpg) | Exam Creation ![examCreation](https://user-images.githubusercontent.com/72180855/169330873-a0399556-54a7-46cb-8f18-1bf3b3e652a7.jpg)
 ExamPage ![exampage](https://user-images.githubusercontent.com/72180855/169332552-58b90afd-6613-4bda-991d-aadce99c6293.jpg) 
+
+## 🌐 Web flow
+<div id="29163FC6587EF6186EF4B1FEA7579062A71_50992"><div id="29163FC6587EF6186EF4B1FEA7579062A71_50992_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=29163FC6587EF6186EF4B1FEA7579062A71" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/29163FC6587EF6186EF4B1FEA7579062A71/preview2.png"></a></div></div>
+
 ## 🚩 Features of Live Face Recognition Model:
 Feature | Images
 ------------ | -------------
