@@ -31,6 +31,47 @@ Feature | Images
 **Prohibited Object Detection!** Some prohibited objects such as books,any other laptop is also detected if any student tries to choose this way of malpractice | ![booldetect](https://user-images.githubusercontent.com/72180855/169391280-b536cf0a-37cc-4203-8ffc-d477f9a373e1.jpg)
 **Book Detection** If any student tries to search ans from book,laptop it immediately detects and report it to the professor. | ![booldetect](https://user-images.githubusercontent.com/72180855/169334005-620315b1-d61b-4876-83a8-38acda9f711a.jpg)
 
+## 🚩Installation/Environment Setup 
+
+  #### 1. Clone App
+  
+  * Write the following command and press enter.
+  
+  ```
+    $ git clone https://github.com/aryans1319/Rectify.git
+  ```
+    
+ #### 2. Install node packages
+  * Move to the parent/root directory (Rectify) cd Rectify
+  * Write the following command and press enter to download all required node modules.
+ 
+   ```
+   $ cd Rectify
+   $ npm install 
+  ```
+  
+#### 3. Move to Client directory and install Node packages
+ * Move to the client folder inside the Rectify folder by cd client
+ * Write the following command and press enter to download all required node modules. 
+ 
+ ```
+   $ cd client
+   $ npm start
+ ```
+
+ #### 4. Run Locally
+  * Move back to the parent directory by cd..
+  * While you are still inside the cloned folder, write the following command to run the website locally.
+ 
+ ```
+   $ npm run dev
+ ```
+ 
+ 
+ ###### NOTE: This concurrently runs server and frontend, give a few seconds for frontend to load and the port by default will be ```http://localhost:3000/```
+
+
+
 
 
 
