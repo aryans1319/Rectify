@@ -9,14 +9,23 @@ This is solely built during the period of **Microsoft Engage Mentorship program'
 #### Problem statement (as given)
 To build a fully functional prototype to demonstrate the application of Face Recognition Technology
 
-## 🚩 Overview:
+## 🚩 General Features and Interfaces:
 Feature | Images
 ------------ | -------------
  **Hompage**  
  It is fast, easy to use, and incredibly convenient with a minimalistic UI! To create an exam, just register as an instructor and login to create the exam! | ![homepage](https://user-images.githubusercontent.com/72180855/169327827-c1900a42-36b9-40b0-aff9-c70fec5f9a12.jpg)
-Registration Page ![registrationPage](https://user-images.githubusercontent.com/72180855/169329936-754069ba-d581-43a1-8cf2-2eac8b9d1e11.jpg) | Login Page  ![LoginPage](https://user-images.githubusercontent.com/72180855/169330053-aaa107cf-23b9-4d45-ade9-ab9929d1128b.jpg) 
-Teacher Dashboard  ![teacherDashboard](https://user-images.githubusercontent.com/72180855/169328758-22c634dc-f495-4445-8c4d-015a83fbbbb9.jpg) | Exam Creation ![examCreation](https://user-images.githubusercontent.com/72180855/169330873-a0399556-54a7-46cb-8f18-1bf3b3e652a7.jpg)
-ExamPage ![exampage](https://user-images.githubusercontent.com/72180855/169332552-58b90afd-6613-4bda-991d-aadce99c6293.jpg) 
+**Registration Page** 
+You can register as an instructor or register as a student!|![registrationPage](https://user-images.githubusercontent.com/72180855/169329936-754069ba-d581-43a1-8cf2-2eac8b9d1e11.jpg)
+**Register as professor!** |![professor](https://user-images.githubusercontent.com/72180855/169717950-bd48965b-bfbf-4054-a7c2-ad6176e949e8.jpg)
+**Register as student** | ![student](https://user-images.githubusercontent.com/72180855/169718036-0480ad8c-332d-4982-96ce-e6d403f44022.jpg)
+**Login Page** 
+User can login as a student or as a professor, authentication system is implemented by using Passport.js | ![LoginPage](https://user-images.githubusercontent.com/72180855/169330053-aaa107cf-23b9-4d45-ade9-ab9929d1128b.jpg)
+**Live Teacher Dashboard**  
+Professor can watch live status of the students of the ongoing exam by entering the unique code which was generated when the professor created the exam and can monitor student from his own dashboard| ![logcheck](https://user-images.githubusercontent.com/72180855/169719205-8ae815d0-79b4-4065-b95c-3769de13d640.jpg)
+**Exam Creation**
+Professors can create exam by filling out the form, time and date, exam duration! You can use google forms, microsoft forms,any other form link for exam | ![examCreation](https://user-images.githubusercontent.com/72180855/169330873-a0399556-54a7-46cb-8f18-1bf3b3e652a7.jpg)
+**ExamPage**
+This is how the exam page looks, allow access to webcam, it starts and recognises the face to start working | ![exampage](https://user-images.githubusercontent.com/72180855/169332552-58b90afd-6613-4bda-991d-aadce99c6293.jpg) 
 
 ## 🌐 Web flow
 ![Flowchart](https://user-images.githubusercontent.com/72180855/169703099-fdc87bec-c42d-407c-b6a4-23acc41f4e6b.jpg)
