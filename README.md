@@ -25,11 +25,13 @@ ExamPage ![exampage](https://user-images.githubusercontent.com/72180855/16933255
 ## 🚩 Features of Live Face Recognition Model:
 Feature | Images
 ------------ | -------------
+**Face Visibility** If you try to hide your face from webcam or moveout of the frame it gives a warning after few seconds,that your face is not visible! | ![facenot](https://user-images.githubusercontent.com/72180855/169716958-4f6a6cdc-9b60-48a4-9acc-a2833a084cbe.jpg)
+**Multiple Face Recognition** If more than one face is detected during the exam, the model detects it and action is reported to the professor. |![multiple face detection](https://user-images.githubusercontent.com/72180855/169717137-38d3ee73-56f0-46cb-87d3-a15e201932ab.jpg)
 **Cell Phone Detection** If any student tries to cheat via phone the model detects it and immediately reports it to the professor then and there | ![cell phone detection](https://user-images.githubusercontent.com/72180855/169334442-3d799e4e-4536-447f-b9c3-4484af2fe74a.jpg) 
 **Disabled Copy/Paste** If any student tries to copy any questions to search on the web it immediately detects and report it to the professor as control keys are disable | ![ctrlkey](https://user-images.githubusercontent.com/72180855/169334801-55e0f168-f7c6-4742-a3e2-812376a6a871.jpg)
 **Disabled Tab Change** Tab changing is strictly monitored during the live examination, if any student tries to open any other tab, the model detects and reports it immediately to the professor that student is changing the tab as well as the number of times he changed | ![tabchange](https://user-images.githubusercontent.com/72180855/169334996-10b8debe-92a9-4472-adbc-fc20ff78cf81.jpg)
 **Prohibited Object Detection!** Some prohibited objects such as books,any other laptop is also detected if any student tries to choose this way of malpractice | ![booldetect](https://user-images.githubusercontent.com/72180855/169391280-b536cf0a-37cc-4203-8ffc-d477f9a373e1.jpg)
-**Book Detection** If any student tries to search ans from book,laptop it immediately detects and report it to the professor. | ![booldetect](https://user-images.githubusercontent.com/72180855/169334005-620315b1-d61b-4876-83a8-38acda9f711a.jpg)
+
 
 ## 🚩Installation/Environment Setup 
 
