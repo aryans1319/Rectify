@@ -19,7 +19,8 @@ Teacher Dashboard  ![teacherDashboard](https://user-images.githubusercontent.com
 ExamPage ![exampage](https://user-images.githubusercontent.com/72180855/169332552-58b90afd-6613-4bda-991d-aadce99c6293.jpg) 
 
 ## 🌐 Web flow
-<div id="29163FC6587EF6186EF4B1FEA7579062A71_50992"><div id="29163FC6587EF6186EF4B1FEA7579062A71_50992_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=29163FC6587EF6186EF4B1FEA7579062A71" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/29163FC6587EF6186EF4B1FEA7579062A71/preview2.png"></a></div></div>
+![Flowchart](https://user-images.githubusercontent.com/72180855/169703099-fdc87bec-c42d-407c-b6a4-23acc41f4e6b.jpg)
+
 
 ## 🚩 Features of Live Face Recognition Model:
 Feature | Images
