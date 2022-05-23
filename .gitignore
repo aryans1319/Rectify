@@ -2,5 +2,3 @@ node_modules
 server/config
 package-lock.json
 
-/build
-/client/build
