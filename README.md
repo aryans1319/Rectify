@@ -1,4 +1,5 @@
 # Microsoft Engage Mentorship program'22 project 
+
 ## Rectify - Automated Exam Proctoring tool for Online Exams using Face Recognition
 ### 🚩 Overview 
 During COVID 19 pandemic, online education has become a common norm in schools and colleges, and students themselves are adapted to this online environment of education, as classes are being held in online mode, exams are also conducted online and students tend to cheat in those exams due to lack of security and no physical guarding by professors/teachers, so here is my solution to the problem!
@@ -51,9 +52,9 @@ Priority scale : P5 (maximum) to P1 (Least)
 | Week | Task |  Remarks |
 |------|:----:|---------|
 | 1    | **Design phase** P4: Basic app built by exploring technologies  , P3: Setup server node.js , express , passport.js, react.js, tensorflow.js  P2: Setting up the authentication system and database  |   Successfull setup implementation, authentication system, mongodb successfully connected            |
-| 2    | P4: Screen Sharing , P3: Filters , P2:Send messages button , P5: PeerId undefined(Bug)     |    All bugs resolved             |
+| 2    | **Face Recognition Model** P4: Screen Sharing , P3: Filters , P2:Send messages button , P5: PeerId undefined(Bug)     |    All bugs resolved             |
 | 3    | P4: List of Participants, P5: Firebase reference error , P3:Hand raise , P5: PeerId undefined(Bug) , P4: Video call connection     |     Problem statement tasking completed|
-| 4    | **Desgin phase and build** P4: Chat Before and after with chat rooms , **Testing and review** P3:Hosting on Azure , P5: Service unavaible error 505 (Bug) , P4: Homepage , P3:Record of participants    |    Adopted task completed  , Branch changing resolved bug             |
+| 4    | **Design phase and build** P4: Chat Before and after with chat rooms , **Testing and review** P3:Hosting on Azure , P5: Service unavaible error 505 (Bug) , P4: Homepage , P3:Record of participants    |    Adopted task completed  , Branch changing resolved bug             |
 
 
 
