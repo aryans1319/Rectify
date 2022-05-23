@@ -51,10 +51,10 @@ Priority scale : P5 (maximum) to P1 (Least)
 
 | Week | Task |  Remarks |
 |------|:----:|---------|
-| 1    | **Design phase** P4: Basic app built by exploring technologies  , P3: Setup server node.js , express , passport.js, react.js, tensorflow.js  P2: Setting up the authentication system and database  |   Successfull setup implementation, authentication system, mongodb successfully connected            |
-| 2    | **Face Recognition Model** P4: Screen Sharing , P3: Filters , P2:Send messages button , P5: PeerId undefined(Bug)     |    All bugs resolved             |
-| 3    | P4: List of Participants, P5: Firebase reference error , P3:Hand raise , P5: PeerId undefined(Bug) , P4: Video call connection     |     Problem statement tasking completed|
-| 4    | **Design phase and build** P4: Chat Before and after with chat rooms , **Testing and review** P3:Hosting on Azure , P5: Service unavaible error 505 (Bug) , P4: Homepage , P3:Record of participants    |    Adopted task completed  , Branch changing resolved bug             |
+| 1    | **Design & Setup phase** P4: Basic app built by exploring technologies  , P3: Setup server node.js , express , passport.js, react.js, tensorflow.js  P2: Setting up the authentication system and database  |   Successfull setup implementation, authentication system, mongodb successfully connected            |
+| 2    | **Face Recognition Model** P4: Building the face recognition custom model using tensorflow , P3: Integration of Model with React and Node.js, P2: Testing Recognition Features , P5: CocoSSD Model Pixel passing to Node.js(Bug)     |    All bugs resolved & Implemented Successfully            |
+| 3    | **Build Phase** P4: List of Participants appearing for the exams, P5: Student logs error , P3: Implementing dynamic logs with sort by name,email functionalities, no of entries per page by unique code P5: Advanced Search Functionalities(Bug) , P4: Video call connection     |     Problem statement tasking completed|
+| 4    | **Deployment and Design** P4: UI Fixes, Exam Restart Feature within given time **Testing and review** P3:Hosting on Heroku , P5: Service unavailable error 505 (Bug) , P4: Homepage , P3:Manual Testing of every feature  |    Task completed     |
 
 
 
