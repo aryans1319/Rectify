@@ -1,6 +1,5 @@
 import React from "react";
 import swal from 'sweetalert';
-//import count from './Login';
 import * as cocoSsd from "@tensorflow-models/coco-ssd";
 import "@tensorflow/tfjs";
 import "./Detections.css";
