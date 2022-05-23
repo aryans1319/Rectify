@@ -27,9 +27,6 @@ Professors can create exam by filling out the form, time and date, exam duration
 **ExamPage**
 This is how the exam page looks, allow access to webcam, it starts and recognises the face to start working | ![exampage](https://user-images.githubusercontent.com/72180855/169332552-58b90afd-6613-4bda-991d-aadce99c6293.jpg) 
 
-## 🌐 Web flow
-![Flowchart](https://user-images.githubusercontent.com/72180855/169703099-fdc87bec-c42d-407c-b6a4-23acc41f4e6b.jpg)
-
 
 ## 🚩 Features of Live Face Recognition Model:
 Feature | Images
@@ -40,6 +37,12 @@ Feature | Images
 **Disabled Copy/Paste** If any student tries to copy any questions to search on the web it immediately detects and report it to the professor as control keys are disable | ![ctrlkey](https://user-images.githubusercontent.com/72180855/169334801-55e0f168-f7c6-4742-a3e2-812376a6a871.jpg)
 **Disabled Tab Change** Tab changing is strictly monitored during the live examination, if any student tries to open any other tab, the model detects and reports it immediately to the professor that student is changing the tab as well as the number of times he changed | ![tabchange](https://user-images.githubusercontent.com/72180855/169334996-10b8debe-92a9-4472-adbc-fc20ff78cf81.jpg)
 **Prohibited Object Detection!** Some prohibited objects such as books,any other laptop is also detected if any student tries to choose this way of malpractice | ![booldetect](https://user-images.githubusercontent.com/72180855/169391280-b536cf0a-37cc-4203-8ffc-d477f9a373e1.jpg)
+
+
+
+## 🌐 Web flow
+![Flowchart](https://user-images.githubusercontent.com/72180855/169703099-fdc87bec-c42d-407c-b6a4-23acc41f4e6b.jpg)
+
 
 
 ## 🚩Installation/Environment Setup 
