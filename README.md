@@ -43,6 +43,18 @@ Feature | Images
 ## 🌐 Web flow
 ![Flowchart](https://user-images.githubusercontent.com/72180855/169703099-fdc87bec-c42d-407c-b6a4-23acc41f4e6b.jpg)
 
+## 🚩 Agile methology and workflow:
+Agile methology was followed by implementation of sprint of 6 days in a week , continuous integration and development while hosting the app on Heroku.
+Customer view points and Teams as an inspiration was taken in mind to develop this project. Bugs were solved according to priority scale
+Priority scale : P5 (maximum) to P1 (Least)
+
+| Week | Task |  Remarks |
+|------|:----:|---------|
+| 1    | **Design phase** P4: Basic app built by exploring technologies  , P3: Setup server node.js , express , passport.js, react.js, tensorflow.js  P2: Setting up the authentication system and database  |   Successfull setup implementation, authentication system, mongodb successfully connected            |
+| 2    | P4: Screen Sharing , P3: Filters , P2:Send messages button , P5: PeerId undefined(Bug)     |    All bugs resolved             |
+| 3    | P4: List of Participants, P5: Firebase reference error , P3:Hand raise , P5: PeerId undefined(Bug) , P4: Video call connection     |     Problem statement tasking completed|
+| 4    | **Desgin phase and build** P4: Chat Before and after with chat rooms , **Testing and review** P3:Hosting on Azure , P5: Service unavaible error 505 (Bug) , P4: Homepage , P3:Record of participants    |    Adopted task completed  , Branch changing resolved bug             |
+
 
 
 ## 🚩Installation/Environment Setup 
