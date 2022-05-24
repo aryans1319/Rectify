@@ -13,17 +13,6 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
-if(process.env.NODE_ENV == "production"){
-  app.use(express.static(path.join(__dirname,"/client/build")));
-  app.get("*", (req,res) => {
-    res.sendFile(path.resolve(__dirname, "client","build", "index.html"));
-  });
-}
-else{
-  app.get("/",(req,res) =>{
-    res.send("API is running successfully")
-  });
-}
 // allow x-www-form-urlencoded body type in postman requests
 app.use(
     bodyParser.urlencoded({
@@ -32,7 +21,7 @@ app.use(
   );
 app.use(bodyParser.json());
 app.use(fileUpload());
-// app.use(express.static(path.resolve(__dirname, '../client/build')));
+app.use(express.static(path.resolve(__dirname, '../client/build')));
 
 
 // Passport middleware
@@ -60,9 +49,9 @@ app.get("/api", (req, res) => {
 });
 
 // All other GET requests not handled before will return our React app
-// app.get('*', (req, res) => {
-//   res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
-// });
+app.get('*', (req, res) => {
+  res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
+});
 app.listen(PORT, () => {
     console.log(`Server listening on ${PORT}`);
   });
