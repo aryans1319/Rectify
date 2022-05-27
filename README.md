@@ -106,9 +106,13 @@ Priority scale : P5 (maximum) to P1 (Least)
  ###### NOTE: This concurrently runs server and frontend, give a few seconds for frontend to load and the port by default will be ```http://localhost:3000/```
  
  
-   ## 🚩 Future Scopes:-
+## 🚩 Future Scopes:-
+
 Feature | Explanation
 ------------ | -------------
 Creating Exam Feature in the application itself| Instead of using a external link(google/microsoft forms),exam creation in the web-application itself would provide more security and better user experience to the product.
-Ma | Mosoft teams inspired feature for developers to work in collabrative environment and code together.
-Blind mode | Switching to this mode user will hear the tool description through audios, and can video call their families as well.
+Class Management | All class management activities (branch/section wise) separately for every year students, creating assignment in the application itself assigning tasks and keep a record of every student activites individually in different sections.
+Video Calling support | Video calling support between students and teacher for quick doubt resolve and better teacher to student interaction
+
+Thank you ! Microsoft Team for such a wonderful mentorship program ❤️
+You can also check [My weekly record during this program](https://docs.google.com/document/d/1tiDQlXSs6BUe6wVWzlbyqzxnwrio0emJkBpMfHyfSJo/edit?usp=sharing)
