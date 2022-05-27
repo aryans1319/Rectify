@@ -46,7 +46,6 @@ Feature | Images
 
 ## 🚩 Agile methology and workflow:
 Agile methology was followed by implementation of sprint of 6 days in a week , continuous integration and development while hosting the app on Heroku.
-Customer view points and Teams as an inspiration was taken in mind to develop this project. Bugs were solved according to priority scale
 Priority scale : P5 (maximum) to P1 (Least)
 
 | Week | Task |  Remarks |
