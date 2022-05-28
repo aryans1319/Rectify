@@ -1,4 +1,4 @@
-# Microsoft Engage Mentorship program'22 project 
+# Microsoft Engage Mentorship Program'22 Project 
 
 ## Rectify - Automated Exam Proctoring tool for Online Exams using Face Recognition
 ### 🚩 Overview 
@@ -9,24 +9,20 @@ This is solely built during the period of **Microsoft Engage Mentorship program'
 
 #### Problem statement (as given)
 To build a fully functional prototype to demonstrate the application of Face Recognition Technology
+- [x] Status : Accomplised by building a face recognition based live examination portal 
 
-<<<<<<< HEAD
-## 🚩 Overview:
-=======
+## 🔗 Links for project:
+ Video link : [https://youtu.be/w4TXcjzo13U](https://youtu.be/w4TXcjzo13U)  
+ 
+ Live demo : [http://engage-rectify.herokuapp.com/](http://engage-rectify.herokuapp.com/)
+ 
+ Documentation Link : [Project Documentation](https://docs.google.com/document/d/1tiDQlXSs6BUe6wVWzlbyqzxnwrio0emJkBpMfHyfSJo/edit?usp=sharing)
+
 ## 🚩 General Features and Interfaces:
->>>>>>> 0c4a8b53bde4f11db6a29f0ac4a654a65d1d63c7
 Feature | Images
 ------------ | -------------
  **Hompage**  
  It is fast, easy to use, and incredibly convenient with a minimalistic UI! To create an exam, just register as an instructor and login to create the exam! | ![homepage](https://user-images.githubusercontent.com/72180855/169327827-c1900a42-36b9-40b0-aff9-c70fec5f9a12.jpg)
-<<<<<<< HEAD
-Registration Page ![registrationPage](https://user-images.githubusercontent.com/72180855/169329936-754069ba-d581-43a1-8cf2-2eac8b9d1e11.jpg) | Login Page  ![LoginPage](https://user-images.githubusercontent.com/72180855/169330053-aaa107cf-23b9-4d45-ade9-ab9929d1128b.jpg) 
-Teacher Dashboard  ![teacherDashboard](https://user-images.githubusercontent.com/72180855/169328758-22c634dc-f495-4445-8c4d-015a83fbbbb9.jpg) | Exam Creation ![examCreation](https://user-images.githubusercontent.com/72180855/169330873-a0399556-54a7-46cb-8f18-1bf3b3e652a7.jpg)
-ExamPage ![exampage](https://user-images.githubusercontent.com/72180855/169332552-58b90afd-6613-4bda-991d-aadce99c6293.jpg) 
-
-## 🌐 Web flow
-![Flowchart](https://user-images.githubusercontent.com/72180855/169703099-fdc87bec-c42d-407c-b6a4-23acc41f4e6b.jpg)
-=======
 **Registration Page** 
 You can register as an instructor or register as a student!|![registrationPage](https://user-images.githubusercontent.com/72180855/169329936-754069ba-d581-43a1-8cf2-2eac8b9d1e11.jpg)
 **Register as professor!** |![professor](https://user-images.githubusercontent.com/72180855/169717950-bd48965b-bfbf-4054-a7c2-ad6176e949e8.jpg)
@@ -39,25 +35,23 @@ Professor can watch live status of the students of the ongoing exam by entering 
 Professors can create exam by filling out the form, time and date, exam duration! You can use google forms, microsoft forms,any other form link for exam | ![examCreation](https://user-images.githubusercontent.com/72180855/169330873-a0399556-54a7-46cb-8f18-1bf3b3e652a7.jpg)
 **ExamPage**
 This is how the exam page looks, allow access to webcam, it starts and recognises the face to start working | ![exampage](https://user-images.githubusercontent.com/72180855/169332552-58b90afd-6613-4bda-991d-aadce99c6293.jpg) 
->>>>>>> 0c4a8b53bde4f11db6a29f0ac4a654a65d1d63c7
 
 
 ## 🚩 Features of Live Face Recognition Model:
 Feature | Images
 ------------ | -------------
-<<<<<<< HEAD
-=======
 **Face Visibility** If you try to hide your face from webcam or moveout of the frame it gives a warning after few seconds,that your face is not visible! | ![facenot](https://user-images.githubusercontent.com/72180855/169716958-4f6a6cdc-9b60-48a4-9acc-a2833a084cbe.jpg)
 **Multiple Face Recognition** If more than one face is detected during the exam, the model detects it and action is reported to the professor. |![multiple face detection](https://user-images.githubusercontent.com/72180855/169717137-38d3ee73-56f0-46cb-87d3-a15e201932ab.jpg)
->>>>>>> 0c4a8b53bde4f11db6a29f0ac4a654a65d1d63c7
 **Cell Phone Detection** If any student tries to cheat via phone the model detects it and immediately reports it to the professor then and there | ![cell phone detection](https://user-images.githubusercontent.com/72180855/169334442-3d799e4e-4536-447f-b9c3-4484af2fe74a.jpg) 
 **Disabled Copy/Paste** If any student tries to copy any questions to search on the web it immediately detects and report it to the professor as control keys are disable | ![ctrlkey](https://user-images.githubusercontent.com/72180855/169334801-55e0f168-f7c6-4742-a3e2-812376a6a871.jpg)
 **Disabled Tab Change** Tab changing is strictly monitored during the live examination, if any student tries to open any other tab, the model detects and reports it immediately to the professor that student is changing the tab as well as the number of times he changed | ![tabchange](https://user-images.githubusercontent.com/72180855/169334996-10b8debe-92a9-4472-adbc-fc20ff78cf81.jpg)
 **Prohibited Object Detection!** Some prohibited objects such as books,any other laptop is also detected if any student tries to choose this way of malpractice | ![booldetect](https://user-images.githubusercontent.com/72180855/169391280-b536cf0a-37cc-4203-8ffc-d477f9a373e1.jpg)
-<<<<<<< HEAD
-**Book Detection** If any student tries to search ans from book,laptop it immediately detects and report it to the professor. | ![booldetect](https://user-images.githubusercontent.com/72180855/169334005-620315b1-d61b-4876-83a8-38acda9f711a.jpg)
-=======
 
+**Other Features :**
+1. Dynamic Teacher's Dashboard 
+2. Sorting and searching functionalites in Professor's Dashboard
+3. Return Back to exam within set time (done because if any student losses connection during the exam) he can return back to it.
+4. Exam creation dialog box which automatically copies generated exam code to clipboard
 
 
 ## 🌐 Web flow
@@ -65,7 +59,6 @@ Feature | Images
 
 ## 🚩 Agile methology and workflow:
 Agile methology was followed by implementation of sprint of 6 days in a week , continuous integration and development while hosting the app on Heroku.
-Customer view points and Teams as an inspiration was taken in mind to develop this project. Bugs were solved according to priority scale
 Priority scale : P5 (maximum) to P1 (Least)
 
 | Week | Task |  Remarks |
@@ -75,8 +68,14 @@ Priority scale : P5 (maximum) to P1 (Least)
 | 3    | **Build Phase** P4: List of Participants appearing for the exams, P5: Student logs error , P3: Implementing dynamic logs with sort by name,email functionalities, no of entries per page by unique code P5: Advanced Search Functionalities(Bug) , P4: Video call connection     |     Problem statement tasking completed|
 | 4    | **Deployment and Design** P4: UI Fixes, Exam Restart Feature within given time **Testing and review** P3:Hosting on Heroku , P5: Service unavailable error 505 (Bug) , P4: Homepage , P3:Manual Testing of every feature  |    Task completed     |
 
+##  🚩 Technologies used:
+![Purple Modern Aries Sun Sign Horoscope YouTube Thumbnail](https://user-images.githubusercontent.com/72180855/170594821-a0ac2c95-b8db-4ac9-b20b-9d6b5425500c.png)
 
->>>>>>> 0c4a8b53bde4f11db6a29f0ac4a654a65d1d63c7
+#### Programming Languages : <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+#### Face Recognition Model :  <img alt = "TensorflowJS" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  Database : <img alt = "MongoDB" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+#### Version Control : <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  Hosting :<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+####  Frameworks/Libraries : <img alt = "ReactJS" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt = "Redux" src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt = "ExpressJS" src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img alt = "JWT" src = "https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/> <img alt = "MaterialUI" src = "https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+###### You can also see the list of dependencies in the package.json file.
 
 ## 🚩Installation/Environment Setup 
 
@@ -116,15 +115,15 @@ Priority scale : P5 (maximum) to P1 (Least)
  
  
  ###### NOTE: This concurrently runs server and frontend, give a few seconds for frontend to load and the port by default will be ```http://localhost:3000/```
+ 
+ 
+## 🚩 Future Scopes:-
 
+Feature | Explanation
+------------ | -------------
+Creating Exam Feature in the application itself| Instead of using a external link(google/microsoft forms),exam creation in the web-application itself would provide more security and better user experience to the product.
+Class Management | All class management activities (branch/section wise) separately for every year students, creating assignment in the application itself assigning tasks and keep a record of every student activites individually in different sections.
+Video Calling support | Video calling support between students and teacher for quick doubt resolve and better teacher to student interaction
 
-
-
-
-
-
-
-
-
-
-
+Thank you ! Microsoft Team for such a wonderful mentorship program ❤️
+You can also check [My weekly record during this program](https://docs.google.com/document/d/1tiDQlXSs6BUe6wVWzlbyqzxnwrio0emJkBpMfHyfSJo/edit?usp=sharing)
