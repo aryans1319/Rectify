@@ -1,4 +1,4 @@
-# Microsoft Engage Mentorship program'22 project 
+# Microsoft Engage Mentorship Program'22 Project 
 
 ## Rectify - Automated Exam Proctoring tool for Online Exams using Face Recognition
 ### 🚩 Overview 
@@ -14,6 +14,7 @@ To build a fully functional prototype to demonstrate the application of Face Rec
 ## 🔗 Links for project:
  Video link : [https://youtu.be/w4TXcjzo13U](https://youtu.be/w4TXcjzo13U)  
  Live demo : Heroku :  [http://engage-rectify.herokuapp.com/](http://engage-rectify.herokuapp.com/)
+ Documentation Link : [Project Documentation](https://docs.google.com/document/d/1tiDQlXSs6BUe6wVWzlbyqzxnwrio0emJkBpMfHyfSJo/edit?usp=sharing)
 
 ## 🚩 General Features and Interfaces:
 Feature | Images
