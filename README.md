@@ -79,6 +79,10 @@ Priority scale : P5 (maximum) to P1 (Least)
 
 ## 🚩Installation/Environment Setup 
 
+  #### Login Credentials 
+       professor email - prof1@gmail.com password - 123456
+       student email - student2@gmail.com password - 123456
+       
   #### 1. Clone App
   
   * Write the following command and press enter.
