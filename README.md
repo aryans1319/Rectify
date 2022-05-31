@@ -53,6 +53,8 @@ Feature | Images
 3. Return Back to exam within set time (done because if any student losses connection during the exam) he can return back to it.
 4. Exam creation dialog box which automatically copies generated exam code to clipboard
 
+**Note:** - Since in the current iteration of the project I am using google form link from professor instead of making questions in the application itself, it is impossible to put key listeners and right click prevention in it since its a third party app and React prevents it due to security reasons. To test these features, please do ctrl press, alt press and right click on left side of screen only.
+
 
 ## 🌐 Web flow
 ![Flowchart](https://user-images.githubusercontent.com/72180855/169703099-fdc87bec-c42d-407c-b6a4-23acc41f4e6b.jpg)
