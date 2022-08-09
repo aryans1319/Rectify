@@ -2,4 +2,5 @@ node_modules
 server/config
 package-lock.json
 
-
+.env
+package.json
