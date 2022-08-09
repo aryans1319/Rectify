@@ -1,4 +1,4 @@
-
+# Hack O Heist Submission | Education Category
 
 ## Rectify - Automated Exam Proctoring tool for Online Exams using Face Recognition
 ### 🚩 Overview 
