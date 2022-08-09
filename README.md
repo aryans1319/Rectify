@@ -1,22 +1,15 @@
-# Microsoft Engage Mentorship Program'22 Project 
+# HACK O HEIST SUBMISSION
+# CATEGORY - EDUCATION
 
 ## Rectify - Automated Exam Proctoring tool for Online Exams using Face Recognition
 ### 🚩 Overview 
 During COVID 19 pandemic, online education has become a common norm in schools and colleges, and students themselves are adapted to this online environment of education, as classes are being held in online mode, exams are also conducted online and students tend to cheat in those exams due to lack of security and no physical guarding by professors/teachers, so here is my solution to the problem!
 
 **Rectify** - An automated online proctoring tool that uses **facial recognition** to detect activities of examinees live during the exam and report live analysis to the professor
-This is solely built during the period of **Microsoft Engage Mentorship program'22** conducted by Microsoft provide mentorship and to enrich freshmen with various software development techniques.
 
-#### Problem statement (as given)
-To build a fully functional prototype to demonstrate the application of Face Recognition Technology
-- [x] Status : Accomplised by building a face recognition based live examination portal 
-
-## 🔗 Links for project:
- Video link : [https://youtu.be/w4TXcjzo13U](https://youtu.be/w4TXcjzo13U)  
+## 🔗 Links for project:  
  
  Live demo : [http://engage-rectify.herokuapp.com/](http://engage-rectify.herokuapp.com/)
- 
- Documentation Link : [Project Documentation](https://docs.google.com/document/d/1tiDQlXSs6BUe6wVWzlbyqzxnwrio0emJkBpMfHyfSJo/edit?usp=sharing)
 
 ## 🚩 General Features and Interfaces:
 Feature | Images
@@ -131,5 +124,4 @@ Creating Exam Feature in the application itself| Instead of using a external lin
 Class Management | All class management activities (branch/section wise) separately for every year students, creating assignment in the application itself assigning tasks and keep a record of every student activites individually in different sections.
 Video Calling support | Video calling support between students and teacher for quick doubt resolve and better teacher to student interaction
 
-Thank you ! Microsoft Team for such a wonderful mentorship program ❤️
-You can also check [My weekly record during this program](https://docs.google.com/document/d/1tiDQlXSs6BUe6wVWzlbyqzxnwrio0emJkBpMfHyfSJo/edit?usp=sharing)
+
