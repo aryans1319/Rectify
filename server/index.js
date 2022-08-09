@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
-// allow x-www-form-urlencoded body type in postman requests
+// allow x-www-form-urlencoded body type in postman request
 app.use(
     bodyParser.urlencoded({
       extended: false
