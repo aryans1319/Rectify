@@ -1,5 +1,3 @@
-# Cloud Community HackDay Submission | Category - Education
-
 ## Rectify - Automated Exam Proctoring tool for Online Exams using Face Recognition
 
 ### 🚩 Overview 
