@@ -1,6 +1,4 @@
 node_modules
 server/config
-package-lock.json
-// Files
 .env
-package.json
+
