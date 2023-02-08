@@ -19,7 +19,6 @@
     "cra-template": "1.1.2",
     "date-fns": "^2.28.0",
     "detectrtc": "^1.4.1",
-    "is-empty": "1.2.0",
     "jwt-decode": "^3.1.2",
     "material-ui-search-bar": "^1.0.0",
     "materialize-css": "^1.0.0-rc.2",
